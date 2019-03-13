@@ -1,3 +1,3 @@
-# jillyratria.github.io / jilly.web.id
+# jillyratria.github.io
 
 static webpage
